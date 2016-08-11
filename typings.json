@@ -2,7 +2,6 @@
   "name": "ng2-echarts",
   "ambientDependencies": {
     "es6-shim": "registry:dt/es6-shim#0.31.2+20160317120654",
-    //"highcharts": "github:DefinitelyTyped/DefinitelyTyped/highcharts/highcharts.d.ts#6a6ad7068a177c0d7a8a20830626cb63277191c5",
     "echarts": "github: DefinitelyTyped/DefinitelyTyped/echarts/echarts.d.ts#402490e9229651a3d7c3d985f4f14dc04609afbb"
   }
 }
